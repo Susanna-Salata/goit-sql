@@ -1,4 +1,4 @@
--- Оценки студентов в группе по предмету на последнем занятии.
+-- Grades of students in the group on the subject at the last lesson.
 SELECT *
 FROM grades;
 

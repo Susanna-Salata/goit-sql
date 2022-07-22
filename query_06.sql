@@ -1,4 +1,4 @@
--- Список студентов в группе.
+-- List of students in the group.
 SELECT *
 FROM students;
 

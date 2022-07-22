@@ -1,4 +1,4 @@
--- Список курсов, которые студенту читает преподаватель.
+-- List of courses taught to the student by the teacher.
 SELECT DISTINCT students.last_name,
 		students.first_name,
 		disciplines.discipline_name,

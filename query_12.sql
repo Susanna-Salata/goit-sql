@@ -1,4 +1,4 @@
--- Средний балл, который ставит преподаватель.
+-- The average score given by the teacher.
 SELECT lectors.last_name as lector,
 		AVG(grades.grade) as avg_grade
 FROM grades

@@ -1,4 +1,4 @@
--- Список курсов, которые посещает студент.
+-- List of courses the student is attending.
 SELECT DISTINCT students.last_name,
 		students.first_name,
 		disciplines.discipline_name

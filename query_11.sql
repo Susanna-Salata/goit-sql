@@ -1,4 +1,4 @@
--- Средний балл, который преподаватель ставит студенту.
+-- The average score given by the teacher to the student.
 SELECT students.last_name,
 		students.first_name,
 		lectors.last_name as lector,

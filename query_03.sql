@@ -1,4 +1,4 @@
--- средний балл в группе по одному предмету.
+-- average score in the group in one subject.
 SELECT *
 FROM grades;
 

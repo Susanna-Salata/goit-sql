@@ -1,4 +1,4 @@
---5 студентов с наибольшим средним баллом по всем предметам.
+--5 students with the highest GPA in all subjects.
 SELECT 	grades.student_id,
 		students.first_name,
 		students.last_name,

@@ -1,4 +1,4 @@
--- Какие курсы читает преподаватель.
+-- What courses does the teacher teach?
 SELECT *
 FROM lectors;
 

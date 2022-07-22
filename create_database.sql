@@ -1,4 +1,5 @@
-DROP TABLE IF exists groups;     
+-- Create a database and fill it with random data (~30 students, 3 groups, 5 subjects, 3 teachers, 20 marks for each student in all subjects).
+DROP TABLE IF exists groups;
 CREATE TABLE groups (
 	id INTEGER PRIMARY KEY UNIQUE,
     group_name VARCHAR(40) NOT NULL,

@@ -1,4 +1,4 @@
--- Оценки студентов в группе по предмету.
+-- Grades of students in the group on the subject.
 SELECT groups.group_name,
 		students.last_name,
 		students.first_name, 

@@ -1,4 +1,4 @@
--- 1 студент с наивысшим средним баллом по одному предмету.
+-- 1 student with the highest GPA in one subject.
 SELECT 	grades.student_id,
 		students.first_name,
 		students.last_name,

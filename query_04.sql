@@ -1,4 +1,4 @@
--- Средний балл в потоке(группе).
+-- Average score in the stream.
 SELECT *
 FROM grades;
 
